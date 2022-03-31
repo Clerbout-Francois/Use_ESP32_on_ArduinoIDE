@@ -1,6 +1,6 @@
 # Use ESP32 on Arduino IDE
 
-If it is the first time you use an microcontroller ESP32 on Arduino IDE, you will need to follow this steps in order to be able to upload code on it.
+If it is the first time you use a microcontroller ESP32 on Arduino IDE, you will need to follow this steps in order to be able to upload code on it.
 
 <a name="table_of_contents"/>
 
