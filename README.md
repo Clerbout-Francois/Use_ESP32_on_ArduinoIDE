@@ -15,7 +15,7 @@ If it is the first time you use a microcontroller ESP32 on Arduino IDE, you will
 
 ![alt text](https://github.com/Clerbout-Francois/Use_ESP32_on_ArduinoIDE/blob/main/images_ESP32/ESP32_diagram.png?raw=true)
 
-_Figure 1: ESP32 NodeMCU Development board Pinout Diagram._
+_Figure 1 : ESP32 NodeMCU Development board Pinout Diagram._
 
 The ESP32 is a small electronic board, called a microcontroller, easy to use thanks to its similarities with the Arduino board which is much more widespread.
 
@@ -39,29 +39,29 @@ Open tab File > Preferences (Fichier > Préférences in french) and you will hav
 
 ![alt text](https://github.com/Clerbout-Francois/Use_ESP32_on_ArduinoIDE/blob/main/images_ESP32/IDE_1.png?raw=true)
 
-_Figure 2: Tab File > Preferences._
+_Figure 2 : Tab File > Preferences._
 
 ![alt text](https://github.com/Clerbout-Francois/Use_ESP32_on_ArduinoIDE/blob/main/images_ESP32/IDE_2.png?raw=true)
 
-_Figure 3: Paste the URL on Arduino IDE._
+_Figure 3 : Paste the URL on Arduino IDE._
 
 Once you have done all this steps, always on the Arduino IDE open tab Tool > Board Type > Board Manager (onglet Outil > Type de carte > Gestionnaire de carte in french).
 
 ![alt text](https://github.com/Clerbout-Francois/Use_ESP32_on_ArduinoIDE/blob/main/images_ESP32/IDE_3.png?raw=true)
 
-_Figure 4: Tab Tool > Board Type > Board Manager._
+_Figure 4 : Tab Tool > Board Type > Board Manager._
 
 Then, search the ESP32 package in the Board Manager (Gestionnaire de carte in french) and install the last version. Do not interrrupt the download !!
 
 ![alt text](https://github.com/Clerbout-Francois/Use_ESP32_on_ArduinoIDE/blob/main/images_ESP32/IDE_4.png?raw=true)
 
-_Figure 5: Search and install ESP32 package._
+_Figure 5 : Search and install ESP32 package._
 
 Once you have done all this steps you just have to add the ESP32 on Arduino IDE : open tab Tool > Map Type (onglet Outil > Type de carte in french) and choose the correct ESP32 board according to the one you have (most often it will be the DOIT ESP32 DEVKIT V1 or the ESP32 Dev Module).
 
 
 ![alt text](https://github.com/Clerbout-Francois/Use_ESP32_on_ArduinoIDE/blob/main/images_ESP32/IDE_5.png?raw=true)
 ![alt text](https://github.com/Clerbout-Francois/Use_ESP32_on_ArduinoIDE/blob/main/images_ESP32/IDE_6.png?raw=true)
-_Figure 6: Choose the correct ESP32 board._
+_Figure 6 : Choose the correct ESP32 board._
 
 Please do not hesitate to contact me if you have any question.
